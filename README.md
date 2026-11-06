@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://tecdepro.org"><img src="https://img.shields.io/badge/Ver_el_sitio_en_vivo-14532D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver el sitio"></a>
-  <img src="https://img.shields.io/badge/Estado-En_producción-F2B21B?style=for-the-badge" alt="En producción">
+  <img src="https://img.shields.io/badge/Estado-En_producción-2EC4B6?style=for-the-badge" alt="En producción">
+  <img src="https://img.shields.io/badge/Proyecto-Cliente-2F6BEA?style=for-the-badge" alt="Proyecto para cliente">
 </p>
 
 ---
@@ -19,7 +20,7 @@
 
 TECDEPRO es una fundación de La Paz que ofrece **cursos de capacitación técnica, formación continua y apoyo al emprendimiento productivo**.
 
-Desarrollé su **portal web** y su **sistema interno**. El sitio está publicado en **[tecdepro.org](https://tecdepro.org)** y lo usan personas que buscan capacitarse.
+Trabajé para la fundación como **desarrollador freelance** y desarrollé su **portal web** y su **sistema interno**, con **PHP y MySQL en arquitectura MVC**. El sitio está publicado en **[tecdepro.org](https://tecdepro.org)** y lo usan personas que buscan capacitarse.
 
 ## ✨ Funcionalidades
 
@@ -56,6 +57,7 @@ Desarrollé su **portal web** y su **sistema interno**. El sitio está publicado
 ## 🛠️ Tecnologías
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MVC](https://img.shields.io/badge/Arquitectura-MVC-0E2A5C)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
